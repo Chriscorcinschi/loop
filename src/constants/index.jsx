@@ -211,7 +211,7 @@ export const projects = [
       iconTech: [html5, css, bootstrap],
       imageUrl: projectsImage2,
       light: true,
-      url: "https://github.com/",
+      url: "https://chriscorcinschi.github.io/responsive-bootstrap-landing-page/",
    },
    {
       id: "2",
@@ -220,7 +220,7 @@ export const projects = [
       backgroundUrl: "./src/assets/projects/card-3.svg",
       iconTech: [javascript, html5, json, css],
       imageUrl: projectsImage2,
-      url: "https://github.com/",
+      url: "https://chriscorcinschi.github.io/wanderlust/",
    },
    {
       id: "3",
@@ -230,7 +230,7 @@ export const projects = [
       iconTech: [html5, css],
       imageUrl: projectsImage2,
       light: true,
-      url: "https://github.com/",
+      url: "https://chriscorcinschi.github.io/donation-website/",
    },
    {
       id: "4",
